@@ -36,7 +36,7 @@ Selain pusing nyari *bug* di kode program, aku juga aktif di beberapa kegiatan k
 Meskipun masih pemula, ini beberapa teknologi yang lagi giat-giatnya aku kulik:
 
 🔹 **Frontend & UI:**
-![HTML5](https://img.shields.io/badge/HTML5-FFB6C1?style=for-the-badge&logo=html5&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-FFB6C1?style=for-the-badge&logo=html5&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-FFC0CB?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFB6C1?style=for-the-badge&logo=javascript&logoColor=white)
 
