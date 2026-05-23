@@ -1,47 +1,62 @@
-<h2 align="left">Hi 👋! My name is Shireka and I'm a student, from Indonesia.</h2>
-
-###
+# Hi there, I'm Ruka Shireka! 🐷✨
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RukaShirekaa&show_icons=true&theme=rose_pine" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RukaShirekaa&layout=compact&theme=rose_pine" height="150" alt="languages graph" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXN6cXN5OHBlb3V3MTBvN3R5ZXl3b3V3cXN6cXN5OHBlb3V3MTBvNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/33OrjzUFwkwEg/giphy.gif" width="150" alt="Cute Piggy"/>
+  
+  ### 🎀 Putri Canon (Ruka) 
+  *Informatics Engineering Student at Politeknik Hasnur* 🐾
+  
+  « Masih pemula banget, tapi maju terus pantang mundur demi vibe coding *blablablabla*~ 🐽 »
 </div>
 
-###
+---
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" />
+### 🐷 About Me
 
-###
+*   🌱 **Current Status:** Mahasiswi semester 2 Teknik Informatika di **Politeknik Hasnur**.
+*   🚀 **My Coding Journey:** Masih *newbie* dan lagi seru-serunya belajar dunia per-codingan dari nol.
+*   🌸 **Aesthetic:** Pecinta warna *soft pink* dan segala hal yang berbau oinky (babi lucu)!
+*   ⚡ **Fun Fact:** Suka menyendiri di depan laptop ditemani kopi hangat, pura-pura paham *error* padahal lagi nyari *vibe*-nya aja wkwk.
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo" />
-</div>
+---
 
-###
+### 🐾 Campus Life & Organizations
 
-<div align="left" style="margin-top: 15px;">
-  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" height="35" />
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35" />
-  <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=black" height="35" />
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" />
-</div>
+Selain pusing nyari *bug* di kode program, aku juga aktif di beberapa kegiatan kampus dan luar kampus, lho:
+*   🏢 **BEM** (Badan Eksekutif Mahasiswa)
+*   🥋 **UKM Pencak Silat**
+*   🎮 **UKM eSport**
+*   ⛑️ **UKM KSR** (Korps Sukarela)
+*   🌳 **Pemuda Bakti Banua**
 
-###
+---
 
-<br clear="both">
+### 🛠️ My Little Toolkit (Learning Progress)
+
+Meskipun masih pemula, ini beberapa teknologi yang lagi giat-giatnya aku kulik:
+
+🔹 **Frontend & UI:**
+![HTML5](https://img.shields.io/badge/HTML5-FFB6C1?style=for-the-badge&logo=html5&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-FFC0CB?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-FFB6C1?style=for-the-badge&logo=javascript&logoColor=white)
+
+🔹 **Backend & Scripting:**
+![Node.js](https://img.shields.io/badge/Node.js-FFC0CB?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFB6C1?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-FFC0CB?style=for-the-badge&logo=openjdk&logoColor=white)
+
+---
+
+### 💌 Find Me On
+
+> *Psst! Mari berteman dan belajar bareng!* 🐷
+
+*   **Instagram:** [@username_kamu](https://instagram.com/username_kamu)
+*   **Email:** [email_kamu@gmail.com](mailto:email_kamu@gmail.com)
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RukaShirekaa&theme=rose-pine" width="100%" alt="activity graph" />
+  <img src="https://komarev.com/ghpvc/?username=RukaShireka&color=ffb6c1&style=flat-square&label=Oinky+Visitors" alt="Profile Views" />
+  
+  <br>
+  💮 *Keep coding and stay oinky!* 💮
 </div>
