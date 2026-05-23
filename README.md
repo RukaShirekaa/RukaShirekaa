@@ -1,7 +1,7 @@
 # Hi there, I'm Ruka Shireka! 🐷✨
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXN6cXN5OHBlb3V3MTBvN3R5ZXl3b3V3cXN6cXN5OHBlb3V3MTBvNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/33OrjzUFwkwEg/giphy.gif" width="150" alt="Cute Piggy"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXN6cXN5OHBlb3V3MTBvN3R5ZXl3b3V3cXN6cXN5OHBlb3V3MTBvNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/33OrjzUFwkwEg/giphy.gif" width="150" alt="Cute Cat"/>
   
   ### 🎀 Putri Canon (Ruka) 
   *Informatics Engineering Student at Politeknik Hasnur* 🐾
@@ -15,7 +15,7 @@
 
 *   🌱 **Current Status:** Mahasiswi semester 2 Teknik Informatika di **Politeknik Hasnur**.
 *   🚀 **My Coding Journey:** Masih *newbie* dan lagi seru-serunya belajar dunia per-codingan dari nol.
-*   🌸 **Aesthetic:** Pecinta warna *soft pink* dan segala hal yang berbau oinky (babi lucu)!
+*   🌸 **Aesthetic:** Pecinta warna *soft pink* dan segala hal yang berbau pinky (kucing lucu)!
 *   ⚡ **Fun Fact:** Suka menyendiri di depan laptop ditemani kopi hangat, pura-pura paham *error* padahal lagi nyari *vibe*-nya aja wkwk.
 
 ---
@@ -51,12 +51,12 @@ Meskipun masih pemula, ini beberapa teknologi yang lagi giat-giatnya aku kulik:
 
 > *Psst! Mari berteman dan belajar bareng!* 🐷
 
-*   **Instagram:** [@username_kamu](https://instagram.com/username_kamu)
-*   **Email:** [email_kamu@gmail.com](mailto:email_kamu@gmail.com)
+*   **Instagram:** [putrii3e_](https://instagram.com/putrii3e_)
+*   **Email:** [khanako872@gmail.com](mailto:khanako872@gmail.com)
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=RukaShireka&color=ffb6c1&style=flat-square&label=Oinky+Visitors" alt="Profile Views" />
   
   <br>
-  💮 *Keep coding and stay oinky!* 💮
+  💮 *Keep coding and stay pinky!* 💮
 </div>
