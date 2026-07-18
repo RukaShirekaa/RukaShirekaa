@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=ff9ecb&section=header&fontColor=ffffff&fontSize=30&animation=fadeIn"/>
+<img width="120%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=ff9ecb&section=header&fontColor=ffffff&fontSize=30&animation=fadeIn"/>
 
 <!-- 💗 GIF KAMU (TIDAK DIGANTI) -->
 <div align="center">
@@ -7,7 +7,6 @@
 
 <div align="center">
   <samp>
-    <b>
       🌸 システムアナリスト 🌸
       <br>
       Halo, aku Ruka Shireka!
