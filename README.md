@@ -5,18 +5,27 @@
     <b>
       システムアナリスト 💗
       <br>
-      Halo, aku Ruka Shireka!
+      Halo, aku Hanako Kun!
       <br>
     </b>
   </samp>
 </div>
-<br>
+
+<div align="center">
+  <p align="center">
+    <img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FRukaShirekaa&s=21&c=ff9ecb&bg=00000000&no=2&ff=digi&tb=Profile+Visits%3A++&ta=" />
+  </p> 
+</div>
+
+<br><br>
 
 <div align="center">
   <img src="https://imgur.com/zeuHIk9.gif" width="200">
 </div>
 
-
+<div align="center">
+  <img src="https://img.shields.io/badge/pinky_dev_♡-ff9ecb?style=for-the-badge" />
+</div>
 
 <div align="center" width="100%">
   <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=ff6fa5&width=900&size=21&center=true&lines=Mahasiswi+D3+Teknik+Informatika+💻;Suka+Web+Development+dan+Design+🎨;Belajar+pelan+pelan+tapi+konsisten+✨;Welcome+to+my+GitHub+💗" />
