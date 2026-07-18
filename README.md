@@ -12,7 +12,6 @@
       <br>
       Halo, aku Ruka Shireka!
       <br>
-     
     </b>
   </samp>
 </div>
