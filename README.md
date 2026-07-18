@@ -1,5 +1,5 @@
 <div align="center">
-  <!-- Jangan lupa ganti nama file ini dengan file GIF kucing asli yang sudah kamu download dari Pinterest dan upload ke repo-mu! -->
+  <!-- Jangan lupa ganti link gambar di bawah dengan nama file GIF kucing asli yang sudah kamu download dari Pinterest dan upload ke repo-mu! -->
   <a href="https://pin.it/mPchL4hWT" target="_blank">
     <img src="https://i.pinimg.com/originals/1c/17/84/1c17849e771e8477610660a5e8401349.gif" width="200" alt="Cute Cat GIF"/>
   </a>
