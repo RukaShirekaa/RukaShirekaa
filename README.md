@@ -16,11 +16,10 @@
   </samp>
 </div>
 
-<br>
-
 <div align="center">
-  <img src="https://img.shields.io/badge/anime_girl_dev_♡-ff9ecb?style=for-the-badge">
+  <img src="https://imgur.com/zeuHIk9.gif" width="200">
 </div>
+
 
 <!-- ✨ ANIME TYPING -->
 <div align="center">
