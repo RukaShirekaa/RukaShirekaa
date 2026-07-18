@@ -5,7 +5,7 @@
     <b>
       システムアナリスト 💗
       <br>
-      Halo, aku Hanako Kun!
+      Halo, aku Ruka Shireka!
       <br>
     </b>
   </samp>
@@ -27,8 +27,9 @@
   <img src="https://img.shields.io/badge/pinky_dev_♡-ff9ecb?style=for-the-badge" />
 </div>
 
-<div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=ff6fa5&width=900&size=21&center=true&lines=Mahasiswi+D3+Teknik+Informatika+💻;Suka+Web+Development+dan+Design+🎨;Belajar+pelan+pelan+tapi+konsisten+✨;Welcome+to+my+GitHub+💗" />
+<!-- ✅ FIXED TYPING EFFECT -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=ff6fa5&size=22&center=true&vCenter=true&width=800&pause=1000&speed=50&repeat=true&lines=Mahasiswi+D3+Teknik+Informatika;Suka+Web+Development+dan+Design;Belajar+pelan+pelan+tapi+konsisten;Welcome+to+my+GitHub+%F0%9F%92%97" />
 </div>
 
 <br>
@@ -41,11 +42,11 @@
 
 <div align="center">
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RukaShirekaa\&theme=rose_pine) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RukaShirekaa\&theme=rose_pine) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RukaShirekaa\&theme=rose_pine\&utcOffset=8) |
-| :--------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------: |
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RukaShirekaa&theme=rose_pine) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RukaShirekaa&theme=rose_pine) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RukaShirekaa&theme=rose_pine&utcOffset=8) |
+| :-: | :-: | :-: |
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RukaShirekaa\&theme=rose_pine) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RukaShirekaa\&theme=rose-pine)](https://git.io/streak-stats) |
-| :------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------: |
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RukaShirekaa&theme=rose_pine) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RukaShirekaa&theme=rose-pine)](https://git.io/streak-stats) |
+| :-: | :-: |
 
 </div>
 
