@@ -1,7 +1,7 @@
 <div align="center">
   <!-- Jangan lupa ganti link gambar di bawah dengan nama file GIF kucing asli yang sudah kamu download dari Pinterest dan upload ke repo-mu! -->
   <a href="https://pin.it/mPchL4hWT" target="_blank">
-    <img src="https://i.pinimg.com/originals/1c/17/84/1c17849e771e8477610660a5e8401349.gif" width="200" alt="Cute Cat GIF"/>
+    <img src="https://i.pinimg.com/originals/1c/17/84/1c17849e771e8477610660a5e8401349.gif" width="200" />
   </a>
   
   <h1>Hi there 👋, I'm Shireka! 🌸</h1>
@@ -29,9 +29,9 @@
 
 ### <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/star.svg" width="20" height="20"/> Statistik Lucu
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RukaShirekaa&show_icons=true&theme=buefy&hide_border=true&bg_color=ffe4e1&title_color=d87093&icon_color=d87093&text_color=333" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RukaShirekaa&show_icons=true&theme=buefy&hide_border=true&bg_color=ffe4e1&title_color=d87093&icon_color=d87093&text_color=333" />
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RukaShirekaa&layout=compact&theme=buefy&hide_border=true&bg_color=ffe4e1&title_color=d87093&icon_color=d87093&text_color=333" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RukaShirekaa&layout=compact&theme=buefy&hide_border=true&bg_color=ffe4e1&title_color=d87093&icon_color=d87093&text_color=333" />
 </div>
 
 <br>
