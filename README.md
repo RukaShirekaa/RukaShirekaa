@@ -1,7 +1,8 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=ff9ecb&section=header&text=Ruka%20Shireka&fontColor=ffffff&fontSize=30&animation=fadeIn"/>
 
+<!-- 💗 GIF KAMU (TIDAK DIGANTI) -->
 <div align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="250">
+  <img src="https://imgur.com/zeuHIk9.gif" width="200">
 </div>
 
 <div align="center">
@@ -16,6 +17,11 @@
   </samp>
 </div>
 
+<br>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/anime_girl_dev_♡-ff9ecb?style=for-the-badge">
+</div>
 
 <!-- ✨ ANIME TYPING -->
 <div align="center">
