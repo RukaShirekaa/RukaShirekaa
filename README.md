@@ -10,9 +10,7 @@
     </b>
   </samp>
 </div>
-
-
-<br><br>
+<br>
 
 <div align="center">
   <img src="https://imgur.com/zeuHIk9.gif" width="200">
