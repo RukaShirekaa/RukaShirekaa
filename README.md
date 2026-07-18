@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=ff9ecb&section=header&text=Ruka%20Shireka&fontColor=ffffff&fontSize=30&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?
 
 <div align="center">
   <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="250">
@@ -14,10 +14,6 @@
       <i>"Keep coding, keep dreaming 💗"</i>
     </b>
   </samp>
-</div>
-
-<div align="center">
-  <img src="https://imgur.com/zeuHIk9.gif" width="200">
 </div>
 
 
