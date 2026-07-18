@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=ff9ecb&section=header&fontColor=ffffff&fontSize=30&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=ff9ecb&section=header&fontColor=ffffff&fontSize=30&animation=fadeIn"/>
 
 <!-- 💗 GIF KAMU (TIDAK DIGANTI) -->
 <div align="center">
