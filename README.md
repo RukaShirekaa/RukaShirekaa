@@ -5,7 +5,7 @@
     <b>
       システムアナリスト
       <br>
-      Halo, aku Hanako Kun!
+      Halo, aku Ruka Shireka!
       <br>
     </b>
   </samp>
