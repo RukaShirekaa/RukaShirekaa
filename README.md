@@ -1,9 +1,9 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=5cadc0"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=ff9ecb"/>
 
 <div align="center">
   <samp>
     <b>
-      システムアナリスト
+      システムアナリスト 💗
       <br>
       Halo, aku Ruka Shireka!
       <br>
@@ -13,7 +13,7 @@
 
 <div align="center">
   <p align="center">
-    <img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FRukaShirekaa&s=21&c=5cadc0&bg=00000000&no=2&ff=digi&tb=Profile+Visits%3A++&ta=" />
+    <img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FRukaShirekaa&s=21&c=ff9ecb&bg=00000000&no=2&ff=digi&tb=Profile+Visits%3A++&ta=" />
   </p> 
 </div>
 
@@ -24,11 +24,11 @@
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/mahasiswa_TI_♡-black" />
+  <img src="https://img.shields.io/badge/pinky_dev_♡-ff9ecb?style=for-the-badge" />
 </div>
 
 <div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=ae2323&width=900&size=21&center=true&lines=Mahasiswi+D3+Teknik+Informatika;Suka+Web+Development+dan+Design;Sedang+Belajar+dan+Berkembang;Welcome+to+my+GitHub!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=ff6fa5&width=900&size=21&center=true&lines=Mahasiswi+D3+Teknik+Informatika+💻;Suka+Web+Development+dan+Design+🎨;Belajar+pelan+pelan+tapi+konsisten+✨;Welcome+to+my+GitHub+💗" />
 </div>
 
 <br>
@@ -41,11 +41,11 @@
 
 <div align="center">
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RukaShirekaa\&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RukaShirekaa\&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RukaShirekaa\&theme=nord_dark\&utcOffset=8) |
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RukaShirekaa\&theme=rose_pine) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RukaShirekaa\&theme=rose_pine) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RukaShirekaa\&theme=rose_pine\&utcOffset=8) |
 | :--------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------: |
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RukaShirekaa\&theme=nord_dark) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RukaShirekaa\&theme=nord)](https://git.io/streak-stats) |
-| :------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------: |
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RukaShirekaa\&theme=rose_pine) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RukaShirekaa\&theme=rose-pine)](https://git.io/streak-stats) |
+| :------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------: |
 
 </div>
 
@@ -70,10 +70,10 @@
 <div align="center">
 
   <a href="mailto:khanako872@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-2e3440?style=for-the-badge&logo=gmail&logoColor=fff">
+    <img src="https://img.shields.io/badge/Gmail-ff9ecb?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   <a href="https://wa.me/6282159285325">
-    <img src="https://img.shields.io/badge/WhatsApp-2e3440?style=for-the-badge&logo=whatsapp&logoColor=fff">
+    <img src="https://img.shields.io/badge/WhatsApp-ff9ecb?style=for-the-badge&logo=whatsapp&logoColor=white">
   </a>
 
 </div>
@@ -81,11 +81,11 @@
 <div align="center">
 <p align="center">
   <samp>
-    ♡ belajar pelan-pelan ⊹ berkembang terus ⊹ jangan nyerah ♡
+    💗 keep growing, keep learning, never give up 💗
   </samp>
 </p>
 </div>
 
 ##
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5cadc0&height=100&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff9ecb&height=100&section=footer"/>
