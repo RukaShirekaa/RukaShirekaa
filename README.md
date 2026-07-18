@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=ff9ecb&section=header&text=Ruka%20Shireka&fontColor=ffffff&fontSize=30&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=ff9ecb&section=header&fontColor=ffffff&fontSize=30&animation=fadeIn"/>
 
 <!-- 💗 GIF KAMU (TIDAK DIGANTI) -->
 <div align="center">
@@ -12,7 +12,7 @@
       <br>
       Halo, aku Ruka Shireka!
       <br>
-      <i>"Keep coding, keep dreaming 💗"</i>
+     
     </b>
   </samp>
 </div>
