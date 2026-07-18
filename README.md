@@ -12,13 +12,13 @@
 </div>
 
 
-
 <br><br>
 
-
 <div align="center">
-  <img src="https://img.shields.io/badge/pinky_dev_♡-ff9ecb?style=for-the-badge" />
+  <img src="https://imgur.com/zeuHIk9.gif" width="200">
 </div>
+
+
 
 <div align="center" width="100%">
   <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=ff6fa5&width=900&size=21&center=true&lines=Mahasiswi+D3+Teknik+Informatika+💻;Suka+Web+Development+dan+Design+🎨;Belajar+pelan+pelan+tapi+konsisten+✨;Welcome+to+my+GitHub+💗" />
