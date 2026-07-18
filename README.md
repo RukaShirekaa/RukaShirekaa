@@ -29,12 +29,7 @@
 
 ### <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/star.svg" width="20" height="20"/> Statistik Lucu
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RukaShirekaa&show_icons=true&theme=buefy&hide_border=true&bg_color=ffe4e1&title_color=d87093&icon_color=d87093&text_color=333" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RukaShirekaa&show_icons=true&theme=buefy&hide_border=true&bg_color=ffe4e1&title_color=d87093&icon_color=d87093&text_color=333&v=1" />
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RukaShirekaa&layout=compact&theme=buefy&hide_border=true&bg_color=ffe4e1&title_color=d87093&icon_color=d87093&text_color=333" />
-</div>
-
-<br>
-<div align="center">
-  <i>"Keep coding, drink matcha, and stay esthetic ✨"</i>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RukaShirekaa&layout=compact&theme=buefy&hide_border=true&bg_color=ffe4e1&title_color=d87093&icon_color=d87093&text_color=333&v=1" />
 </div>
