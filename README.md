@@ -7,7 +7,7 @@
 
 <div align="center">
   <samp>
-      <br>
+      <b>
       🌸 システムアナリスト 🌸
       <br>
       Halo, aku Ruka Shireka!
